@@ -1,0 +1,2 @@
+# premium-murrine-001-murrine-cross-section-pattern
+You're spending hours manually sketching murrine cross-sections, only to realize your pattern symmetry is off and your design documentation is scattered across notebooks. The Murrine Cross-Section Pattern Design Guide eliminates that chaos.  This comprehensive Notion template transforms how you plan, document, and iterate on murrine cross-section p
